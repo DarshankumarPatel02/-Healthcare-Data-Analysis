@@ -1,5 +1,7 @@
 # Healthcare Data Analysis SQL Queries
 
+## Dashboard:- [Link](https://public.tableau.com/app/profile/darshankumar.patel3977/viz/Health_Care_17275416817130/HealthCareOverview)
+
 ## Project Overview
 
 This project provides a collection of SQL queries designed to perform exploratory data analysis (EDA) on healthcare datasets. These queries cover various aspects of patient demographics, hospital admissions, billing, medical conditions, and more. The aim is to generate insights into healthcare operations, patient management, and hospital performance.
