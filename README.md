@@ -1,4 +1,4 @@
-# Healthcare Data Analysis SQL Queries
+# Healthcare Data Analysis 
 
 ## Dashboard:- [Link](https://public.tableau.com/app/profile/darshankumar.patel3977/viz/Health_Care_17275416817130/HealthCareOverview)
 
